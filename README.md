@@ -3,6 +3,8 @@
 # Attache screenshot for each solution
 1.[ Print linked list ]( https://www.geeksforgeeks.org/problems/print-linked-list-elements/0)<br>
 83.[ Remove duplicates from a sorted list]( https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)<br>
+solution :-   ![image](https://github.com/user-attachments/assets/a100ea80-2bd8-4e39-9fb8-843c63381e99)<br>
+
 206.[ Reverse a linked list] (https://leetcode.com/problems/reverse-linked-list/)<br>
 2095.[ Delete middle node of a list]( https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)<br>
 21.[ Merge two sorted linked lists]( https://leetcode.com/problems/merge-two-sorted-lists/description/)<br>
